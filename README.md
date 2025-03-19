@@ -29,15 +29,15 @@ Add your OpenAI API key to the .env file:
 API_KEY=your-api-key-here
 
 
-Run the script:
+4. Run the script:
 python blog_generator.py
 
-Follow the prompts:
+5. Follow the prompts:
 Enter 'Y' to generate a paragraph.
 Provide a topic for the paragraph.
 View the generated content.
 
-Exit the program:
+6. Exit the program:
 Enter any key other than 'Y' when prompted to stop generating paragraphs.
 
 Example
